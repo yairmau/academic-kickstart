@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yair Mau
 
 # Username (this should match the folder name)
 authors:
